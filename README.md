@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 animated-octo-spice
 ===================
 
@@ -26,7 +25,4 @@ The extension will inject the installed and updated js and css in the context of
 
 What's the difference with normal chrome extensions?
 We are encouraging to fork and extend the extensions within the repository.
-=======
-eight-spice
-===========
->>>>>>> 56c68c90659ca2408d14069abafb75246764e0a5
+
